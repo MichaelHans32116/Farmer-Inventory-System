@@ -1,0 +1,17 @@
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Resources.resources
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\MAGBOJOS PC\Desktop\Finals_ITECC05\Farmer-Inventory-System\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
