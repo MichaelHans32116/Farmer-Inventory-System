@@ -35,12 +35,12 @@ Partial Class Form1
         unameText.BackColor = SystemColors.Desktop
         unameText.BorderStyle = BorderStyle.FixedSingle
         unameText.Cursor = Cursors.IBeam
-        unameText.Font = New Font("League Spartan", 26.2499962F, FontStyle.Bold)
+        unameText.Font = New Font("League Spartan", 21.7499981F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         unameText.ForeColor = Color.White
-        unameText.Location = New Point(121, 429)
+        unameText.Location = New Point(88, 329)
         unameText.Multiline = True
         unameText.Name = "unameText"
-        unameText.Size = New Size(608, 61)
+        unameText.Size = New Size(431, 48)
         unameText.TabIndex = 0
         unameText.Text = "Username"
         ' 
@@ -49,23 +49,23 @@ Partial Class Form1
         passText.BackColor = SystemColors.Desktop
         passText.BorderStyle = BorderStyle.FixedSingle
         passText.Cursor = Cursors.IBeam
-        passText.Font = New Font("League Spartan", 26.2499962F, FontStyle.Bold)
+        passText.Font = New Font("League Spartan", 21.7499981F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         passText.ForeColor = Color.White
-        passText.Location = New Point(121, 507)
+        passText.Location = New Point(88, 383)
         passText.Multiline = True
         passText.Name = "passText"
-        passText.Size = New Size(608, 61)
+        passText.Size = New Size(431, 48)
         passText.TabIndex = 1
         passText.Text = "Password"
         ' 
         ' lgnBtn
         ' 
         lgnBtn.Cursor = Cursors.Hand
-        lgnBtn.Font = New Font("League Spartan ExtraBold", 27.7499962F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        lgnBtn.Font = New Font("League Spartan", 23.9999981F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         lgnBtn.ImageAlign = ContentAlignment.BottomCenter
-        lgnBtn.Location = New Point(292, 625)
+        lgnBtn.Location = New Point(200, 485)
         lgnBtn.Name = "lgnBtn"
-        lgnBtn.Size = New Size(260, 70)
+        lgnBtn.Size = New Size(202, 56)
         lgnBtn.TabIndex = 3
         lgnBtn.Text = "LOGIN"
         lgnBtn.UseVisualStyleBackColor = True
@@ -78,7 +78,7 @@ Partial Class Form1
         sgnText.Font = New Font("League Spartan Black", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         sgnText.LinkBehavior = LinkBehavior.NeverUnderline
         sgnText.LinkColor = Color.White
-        sgnText.Location = New Point(364, 698)
+        sgnText.Location = New Point(363, 744)
         sgnText.Name = "sgnText"
         sgnText.Size = New Size(119, 36)
         sgnText.TabIndex = 4
@@ -90,11 +90,11 @@ Partial Class Form1
         ' 
         lblErrorMessage.AutoSize = True
         lblErrorMessage.BackColor = Color.Transparent
-        lblErrorMessage.Font = New Font("Segoe UI Semibold", 18F, FontStyle.Bold Or FontStyle.Italic, GraphicsUnit.Point, CByte(0))
+        lblErrorMessage.Font = New Font("League Spartan", 15.75F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         lblErrorMessage.ForeColor = Color.LightSteelBlue
-        lblErrorMessage.Location = New Point(197, 580)
+        lblErrorMessage.Location = New Point(136, 443)
         lblErrorMessage.Name = "lblErrorMessage"
-        lblErrorMessage.Size = New Size(0, 32)
+        lblErrorMessage.Size = New Size(0, 31)
         lblErrorMessage.TabIndex = 5
         lblErrorMessage.Visible = False
         ' 
@@ -105,7 +105,7 @@ Partial Class Form1
         AutoSize = True
         BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), Image)
         BackgroundImageLayout = ImageLayout.Stretch
-        ClientSize = New Size(1924, 981)
+        ClientSize = New Size(1370, 749)
         Controls.Add(lblErrorMessage)
         Controls.Add(sgnText)
         Controls.Add(lgnBtn)
